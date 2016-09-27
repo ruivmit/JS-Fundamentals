@@ -11,4 +11,3 @@ function compoundInterestCalc(input) {
 
     console.log((total).toFixed(2))
 }
-compoundInterestCalc([100000, 5, 12, 25])

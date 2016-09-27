@@ -8,4 +8,4 @@ function solve(input) {
     let distance = Math.sqrt((Math.pow((x2-x1), 2)) + (Math.pow((y2-y1), 2)) + (Math.pow((z2-z1), 2)));
     console.log(distance);
 }
-solve([3.5, 0, 1, 0, 2, -1])
+

@@ -8,7 +8,7 @@ function solve(input) {
     }
   console.log(degrees)
 }
-solve([-50])
+//solve([-50])
 
 // or
 
@@ -19,7 +19,7 @@ function solve (input) {
     degrees <= 0 ? degrees = 360 + (degrees % 360) : degrees >= 360 ? degrees = degrees % 360 : degrees
     console.log(degrees)
 }
-solve([-50])
+
 
 // or
 
@@ -31,4 +31,3 @@ function solve([input]) {
     }
     console.log(degree);
 }
-solve([850])

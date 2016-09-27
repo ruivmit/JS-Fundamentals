@@ -8,7 +8,7 @@ function rounding(input) {
         console.log((number).toFixed(precision).replace(/\.?0+$/, ""))
     }
 }
-rounding([100, 2])
+
 
 //or
 
@@ -19,4 +19,3 @@ function rounding(input) {
     precision > 15 ? console.log((number).toFixed(15).replace(/\.?0+$/, "")) :
         console.log((number).toFixed(precision).replace(/\.?0+$/, ""))
 }
-rounding([100, 2])

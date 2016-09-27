@@ -6,4 +6,3 @@ function calculations(input) {
     console.log(area);
     console.log(perimeter);
 }
-calculations([2.5, 3.14])

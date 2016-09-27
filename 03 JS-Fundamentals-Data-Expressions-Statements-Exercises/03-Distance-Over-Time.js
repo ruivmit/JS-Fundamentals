@@ -7,4 +7,3 @@ function distance(input) {
     let distanceBetweenObj = Math.abs(S1distance - S2distance)
     console.log(distanceBetweenObj);
 }
-distance([5, -5, 40])

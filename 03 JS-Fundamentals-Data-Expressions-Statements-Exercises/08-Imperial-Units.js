@@ -11,4 +11,4 @@ function solve (input) {
     }
 
 }
-solve([0])
+

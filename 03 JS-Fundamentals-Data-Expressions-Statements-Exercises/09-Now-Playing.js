@@ -4,4 +4,3 @@ function nowPlaying(input) {
     let duration = input[2];
     console.log("Now Playing: " + trackName + " " + '-' + " " + artistName + " " + '\['+ duration + ']')
 }
-nowPlaying(['Number One', 'Nelly', '4:09'])

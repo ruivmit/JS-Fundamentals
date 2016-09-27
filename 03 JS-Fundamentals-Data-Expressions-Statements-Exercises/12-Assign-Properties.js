@@ -12,4 +12,3 @@ function assignProp(input){
     console.log(obj)
 }
 
-assignProp(['name', 'Pesho', 'age', '23', 'gender', 'male'])

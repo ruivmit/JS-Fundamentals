@@ -13,4 +13,4 @@ function lastMonth(input) {
 
     console.log(day);
 }
-lastMonth(['17','3','2002'])
+

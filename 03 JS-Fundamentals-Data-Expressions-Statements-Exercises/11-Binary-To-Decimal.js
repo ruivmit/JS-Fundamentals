@@ -3,4 +3,3 @@ function binToDec(input) {
     let convertNum = parseInt(number, 2);
     console.log(convertNum);
 }
-binToDec(['11110000'])
